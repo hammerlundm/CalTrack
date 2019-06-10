@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bfcfdf</color>
+    <color name="colorPrimaryDark">#3f4f5f</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="protein">#ff3500</color>
+    <color name="carbs">#067fba</color>
+    <color name="fat">#7fee00</color>
+</resources>

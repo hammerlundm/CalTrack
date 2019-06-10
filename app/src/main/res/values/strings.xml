@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalTrack</string>
+    <string name="calorie_text">Calories</string>
+    <string name="protein_text">Protein</string>
+    <string name="fat_text">Fat</string>
+    <string name="carbs_text">Carbohydrates</string>
+    <string name="empty_food">No Foods Yet</string>
+    <string name="invalid_add">Can\'t add that</string>
+</resources>
